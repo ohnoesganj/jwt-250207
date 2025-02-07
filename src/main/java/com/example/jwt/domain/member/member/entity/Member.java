@@ -1,6 +1,6 @@
 package com.example.jwt.domain.member.member.entity;
 
-import com.example.security.global.entity.BaseTime;
+import com.example.jwt.global.entity.BaseTime;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EntityListeners;

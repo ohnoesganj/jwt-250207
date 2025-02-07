@@ -1,9 +1,9 @@
 package com.example.jwt.domain.post.post.entity;
 
-import com.example.security.domain.member.member.entity.Member;
-import com.example.security.domain.post.comment.entity.Comment;
-import com.example.security.global.entity.BaseTime;
-import com.example.security.global.exception.ServiceException;
+import com.example.jwt.domain.member.member.entity.Member;
+import com.example.jwt.domain.post.comment.entity.Comment;
+import com.example.jwt.global.entity.BaseTime;
+import com.example.jwt.global.exception.ServiceException;
 import jakarta.persistence.*;
 import lombok.*;
 

@@ -1,8 +1,8 @@
 package com.example.jwt.global;
 
-import com.example.security.domain.member.member.entity.Member;
-import com.example.security.domain.member.member.service.MemberService;
-import com.example.security.global.exception.ServiceException;
+import com.example.jwt.domain.member.member.entity.Member;
+import com.example.jwt.domain.member.member.service.MemberService;
+import com.example.jwt.global.exception.ServiceException;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

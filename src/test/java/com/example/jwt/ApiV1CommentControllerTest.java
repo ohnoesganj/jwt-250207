@@ -1,9 +1,9 @@
 package com.example.jwt;
 
-import com.example.security.domain.post.comment.controller.ApiV1CommentController;
-import com.example.security.domain.post.comment.entity.Comment;
-import com.example.security.domain.post.post.entity.Post;
-import com.example.security.domain.post.post.service.PostService;
+import com.example.jwt.domain.post.comment.controller.ApiV1CommentController;
+import com.example.jwt.domain.post.comment.entity.Comment;
+import com.example.jwt.domain.post.post.entity.Post;
+import com.example.jwt.domain.post.post.service.PostService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

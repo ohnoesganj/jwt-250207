@@ -1,6 +1,6 @@
 package com.example.jwt.domain.member.member.dto;
 
-import com.example.security.domain.member.member.entity.Member;
+import com.example.jwt.domain.member.member.entity.Member;
 import lombok.Getter;
 
 import java.time.LocalDateTime;

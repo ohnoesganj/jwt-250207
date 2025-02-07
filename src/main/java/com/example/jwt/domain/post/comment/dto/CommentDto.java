@@ -1,6 +1,6 @@
 package com.example.jwt.domain.post.comment.dto;
 
-import com.example.security.domain.post.comment.entity.Comment;
+import com.example.jwt.domain.post.comment.entity.Comment;
 import lombok.Getter;
 
 import java.time.LocalDateTime;

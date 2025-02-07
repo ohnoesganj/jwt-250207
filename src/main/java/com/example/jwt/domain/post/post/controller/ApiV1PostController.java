@@ -1,14 +1,14 @@
 package com.example.jwt.domain.post.post.controller;
 
-import com.example.security.domain.member.member.entity.Member;
-import com.example.security.domain.member.member.service.MemberService;
-import com.example.security.domain.post.post.dto.PageDto;
-import com.example.security.domain.post.post.dto.PostWithContentDto;
-import com.example.security.domain.post.post.entity.Post;
-import com.example.security.domain.post.post.service.PostService;
-import com.example.security.global.Rq;
-import com.example.security.global.dto.RsData;
-import com.example.security.global.exception.ServiceException;
+import com.example.jwt.domain.member.member.entity.Member;
+import com.example.jwt.domain.member.member.service.MemberService;
+import com.example.jwt.domain.post.post.dto.PageDto;
+import com.example.jwt.domain.post.post.dto.PostWithContentDto;
+import com.example.jwt.domain.post.post.entity.Post;
+import com.example.jwt.domain.post.post.service.PostService;
+import com.example.jwt.global.Rq;
+import com.example.jwt.global.dto.RsData;
+import com.example.jwt.global.exception.ServiceException;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;

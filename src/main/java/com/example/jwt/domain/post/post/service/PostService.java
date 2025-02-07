@@ -1,8 +1,8 @@
 package com.example.jwt.domain.post.post.service;
 
-import com.example.security.domain.member.member.entity.Member;
-import com.example.security.domain.post.post.entity.Post;
-import com.example.security.domain.post.post.repository.PostRepository;
+import com.example.jwt.domain.member.member.entity.Member;
+import com.example.jwt.domain.post.post.entity.Post;
+import com.example.jwt.domain.post.post.repository.PostRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

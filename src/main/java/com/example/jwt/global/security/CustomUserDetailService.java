@@ -1,7 +1,7 @@
 package com.example.jwt.global.security;
 
-import com.example.security.domain.member.member.entity.Member;
-import com.example.security.domain.member.member.repository.MemberRepository;
+import com.example.jwt.domain.member.member.entity.Member;
+import com.example.jwt.domain.member.member.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

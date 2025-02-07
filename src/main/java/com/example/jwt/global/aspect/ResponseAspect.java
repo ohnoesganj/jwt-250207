@@ -1,6 +1,6 @@
 package com.example.jwt.global.aspect;
 
-import com.example.security.global.dto.RsData;
+import com.example.jwt.global.dto.RsData;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 import org.aspectj.lang.ProceedingJoinPoint;

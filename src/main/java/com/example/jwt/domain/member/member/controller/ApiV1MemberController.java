@@ -1,11 +1,11 @@
 package com.example.jwt.domain.member.member.controller;
 
-import com.example.security.domain.member.member.dto.MemberDto;
-import com.example.security.domain.member.member.entity.Member;
-import com.example.security.domain.member.member.service.MemberService;
-import com.example.security.global.Rq;
-import com.example.security.global.dto.RsData;
-import com.example.security.global.exception.ServiceException;
+import com.example.jwt.domain.member.member.dto.MemberDto;
+import com.example.jwt.domain.member.member.entity.Member;
+import com.example.jwt.domain.member.member.service.MemberService;
+import com.example.jwt.global.Rq;
+import com.example.jwt.global.dto.RsData;
+import com.example.jwt.global.exception.ServiceException;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
 import lombok.RequiredArgsConstructor;

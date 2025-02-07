@@ -1,6 +1,6 @@
 package com.example.jwt.global.exception;
 
-import com.example.security.global.dto.RsData;
+import com.example.jwt.global.dto.RsData;
 
 public class ServiceException extends RuntimeException {
 
